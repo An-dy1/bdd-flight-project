@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.pluralsight.bddfundamentals.airport.AirportTest" time="0.107" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.pluralsight.bddfundamentals.airport.AirportTest" time="0.088" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib"/>
@@ -63,8 +63,8 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="testBusinessFlightVipPassenger" classname="com.pluralsight.bddfundamentals.airport.AirportTest" time="0.026"/>
-  <testcase name="testEconomyFlightVipPassenger" classname="com.pluralsight.bddfundamentals.airport.AirportTest" time="0"/>
-  <testcase name="testBusinessFlightUsualPassenger" classname="com.pluralsight.bddfundamentals.airport.AirportTest" time="0"/>
-  <testcase name="testEconomyFlightUsualPassenger" classname="com.pluralsight.bddfundamentals.airport.AirportTest" time="0.001"/>
+  <testcase name="should_not_add_usual_passenger_to_business_flight" classname="com.pluralsight.bddfundamentals.airport.AirportTest$BusinessFlightTest" time="0.021"/>
+  <testcase name="should_add_and_not_remove_vip_passenger_from_business_flight" classname="com.pluralsight.bddfundamentals.airport.AirportTest$BusinessFlightTest" time="0"/>
+  <testcase name="should_add_and_remove_usual_passenger_from_economy_flight" classname="com.pluralsight.bddfundamentals.airport.AirportTest$EconomyFlightTest" time="0"/>
+  <testcase name="should_add_and_not_remove_vip_passenger_from_economy_flight" classname="com.pluralsight.bddfundamentals.airport.AirportTest$EconomyFlightTest" time="0.001"/>
 </testsuite>
