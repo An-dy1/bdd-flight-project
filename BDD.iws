@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b248f9b5-730d-4eb7-bcbc-5698824d8ac7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pluralsight/bddfundamentals/airport/AirportTest$BusinessFlightTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pluralsight/bddfundamentals/airport/AirportTest$BusinessFlightTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pluralsight/bddfundamentals/airport/AirportTest$EconomyFlightTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pluralsight/bddfundamentals/airport/AirportTest$EconomyFlightTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/pluralsight/bddfundamentals/airport/AirportTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/pluralsight/bddfundamentals/airport/AirportTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="b248f9b5-730d-4eb7-bcbc-5698824d8ac7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -269,7 +264,7 @@
     <option name="x" value="1472" />
     <option name="y" value="23" />
     <option name="width" value="1875" />
-    <option name="height" value="1020" />
+    <option name="height" value="1009" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -513,7 +508,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539085352474</updated>
-      <workItem from="1557948197524" duration="2030000" />
+      <workItem from="1557948197524" duration="2304000" />
     </task>
     <servers />
   </component>
@@ -544,7 +539,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2030000" />
+    <option name="totallyTimeSpent" value="2304000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -559,7 +554,7 @@
     <frame x="1472" y="23" width="1875" height="1020" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" id="Project" order="0" visible="true" weight="0.18003273" />
+      <window_info id="Project" order="0" visible="true" weight="0.18003273" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -571,13 +566,13 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286638" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286638" />
       <window_info anchor="bottom" id="EJB" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="CVS" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.27478448" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.27478448" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286638" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.3297414" />
